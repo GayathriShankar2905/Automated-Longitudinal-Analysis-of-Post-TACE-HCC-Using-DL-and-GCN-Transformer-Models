@@ -1,0 +1,9 @@
+streamlit
+numpy
+pydicom
+matplotlib
+networkx
+scipy
+torch
+torchvision
+opencv-python-headless
